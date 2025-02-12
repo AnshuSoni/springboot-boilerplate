@@ -1,5 +1,5 @@
 
-# Project Title
+# Spring Boot Boiler Plate
 
 A boilerplate application in spring boot, which is intended to serve as a base for any projects. It has following configurations
 
@@ -15,10 +15,6 @@ A boilerplate application in spring boot, which is intended to serve as a base f
 - Unit Test Cases (todo)
 
 
-
-
-
-
 ## 🚀 About Me
 A Technical ghost, so knows everything 😁, deep respect to whom, I learn something, devotee of Lord Krishna.
 
@@ -27,11 +23,13 @@ I recently started my blog, http://monkindevrole.wordpress.com/ Please give a re
 Linked In profile https://www.linkedin.com/in/abhisheksonii/
 
 If you like to read stories, this is me 😁
-
-I am a quick learner, very adaptive and versatile and a rich experience and a celebrated career summary in variety of complex IT services ranging from Full stack java development, Application and Network Security, Linux Administration, Data Centers, Mobile Application development using Flutter/Ionic, Server Storage. Currently working on Java Full Stack domain.
+<div style="background-color: #f3f3f3; font-family: 'Comic Sans MS', cursive; font-size: 18px; padding: 10px; border-radius: 10px; color: #5e5e5e">
+I am nearly 12 years in the Industry, yes I am turning old now 😂. I am a Java Full Stack Engineer, very adaptive and versatile and a rich experience and a celebrated career summary in variety of complex IT services ranging from Full stack java development, Application and Network Security, Linux Administration, Data Centers, Mobile Application development using Flutter/Ionic, Server Storage. Currently working on Java Full Stack domain.
 I am currently seeking for the Senior Dev role among the best engineers to solve a complex engineering problem in a professional, holistic environment and more importantly, with huge web traffic.
 
-My youtube channel is comming soon ! I will explain the important concepts.
+</div>
+
+My Youtube channel is coming soon ! I will explain the important concepts.
 
 ## Tech Stack
 
