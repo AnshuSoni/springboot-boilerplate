@@ -2,9 +2,6 @@ package com.example.demo.models;
 
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Entity
 @Table(name = "roles")
@@ -17,6 +14,10 @@ public class Role {
     private ERole role;
 
     public Role() {
+    }
+
+    public Role(ERole eRole) {
+        this.role = eRole;
     }
 
     public Long getId() {

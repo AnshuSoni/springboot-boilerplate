@@ -1,10 +1,9 @@
 package com.example.demo.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
-import lombok.Builder;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -17,6 +16,8 @@ public class Users extends Auditable<String> {
     private String name;
     private String username;
     private String email;
+
+    @JsonIgnore
     private String password;
     private String gender;
     private LocalDate birthDay;
